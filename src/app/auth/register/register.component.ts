@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { LoginService } from 'src/app/services/auth/login.service';
+import { Component, OnInit } from "@angular/core";
+import { LoginService } from "src/app/services/auth/login.service";
 
 export class User {
   id: number;
